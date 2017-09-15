@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AutoBR</string>
+    <string name="welcome">欢迎使用借阅伴侣自助借还机</string>
+    <string name="borrow">借书</string>
+    <string name="restore">还书</string>
+    <string name="info">提示</string>
+    <string name="scan_code">请将微信生成的二维码放入扫码区域</string>
+    <string name="pause_service">本机器暂停服务</string>
+    <string name="choose_op_type">请选择操作类型</string>
+    <string name="code_error">二维码有误，请扫描正确二维码</string>
+    <string name="bar_code_error">条形码有误，请扫描正确条形码</string>
+    <string name="wait">请稍等</string>
+    <string name="load_data">获取数据中...</string>
+    <string name="do_operation">请求中...</string>
+    <string name="error_and_retry">获取数据出错，请退出重试</string>
+    <string name="exit">退出</string>
+    <string name="scaned">该书已扫描，请扫描下一本书</string>
+    <string name="return_succ">还书成功！</string>
+    <string name="borrow_succ">借书成功！</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_size">196dp</dimen>
+    <dimen name="small_icon_size">36dp</dimen>
+
+
+    <dimen name="big_text">48sp</dimen>
+    <dimen name="sub_big_text">36sp</dimen>
+    <dimen name="medium_text">24sp</dimen>
+    <dimen name="sub_medium_text">16sp</dimen>
+
+
+    <dimen name="big_spacing">48dp</dimen>
+    <dimen name="sub_big_spacing">36dp</dimen>
+    <dimen name="medium_spacing">24dp</dimen>
+    <dimen name="sub_medium_spacing">8dp</dimen>
+
+    <dimen name="head_size">112dp</dimen>
+    <dimen name="toast_corner">40dp</dimen>
+    <dimen name="toast_icon_size">96dp</dimen>
+    <dimen name="corner">6dp</dimen>
+    <dimen name="s_small_spacing">9dp</dimen>
+</resources>

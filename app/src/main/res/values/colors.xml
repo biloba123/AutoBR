@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#333333</color>
+    <color name="sub_text_color">#666666</color>
+    <color name="icon_color">#bfbfbf</color>
+    <color name="div">#e6e6e6</color>
+    <color name="toast_bg">#80000000</color>
+    <color name="toast_bg_loading">#50000000</color>
+    <color name="toast_text">#fefefe</color>
+</resources>

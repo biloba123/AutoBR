@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/bg_welcome"
+    tools:context="com.lvqingyang.autobr.MainActivity">
+
+    <ImageView
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        android:src="@drawable/icon"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/medium_spacing"
+        android:textSize="@dimen/big_text"
+        android:textColor="@android:color/white"
+        android:text="@string/welcome"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/big_spacing"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn_borrow"
+            android:layout_width="160dp"
+            android:layout_height="82dp"
+            android:background="@drawable/bg_btn"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sub_big_text"
+            android:text="@string/borrow"/>
+        <Button
+            android:id="@+id/btn_restore"
+            android:layout_width="160dp"
+            android:layout_height="82dp"
+            android:layout_marginLeft="@dimen/big_spacing"
+            android:background="@drawable/bg_btn"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sub_big_text"
+            android:text="@string/restore"/>
+    </LinearLayout>
+
+</LinearLayout>
